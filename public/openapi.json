@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.0",
+  "servers": [],
+
+  "info":
+  {
+    "description": "This is a sample server.\nYou can find out more about logoran-joi-router at\n[https://github.com/logoran/joi-router](https://github.com/logoran/joi-router)\n",
+    "version": "1.0.0",
+    "title": "Logoran joi router example",
+    "termsOfService": "https://github.com/logoran",
+    "contact":
+    {
+      "email": "yujunlong2000@gmail.com"
+    },
+    "license":
+    {
+      "name": "MIT"
+    }
+  },
+  "tags":[],
+  "paths":{}
+}
